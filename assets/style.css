@@ -1,0 +1,45 @@
+.gym{
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: left;
+}
+
+.gatitos {
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+nav{
+    padding: 10px 10px 10px 10px;
+}
+
+img {
+    width: 25%;
+}
+video{
+    width: 30%
+}
+audio{
+    padding-top: 5px;
+}
+
+.invoice{
+    border-collapse: collapse;
+    border-top: 1px solid black;
+    border-bottom: 1px solid black;
+    border-left: 1px solid black;
+    border-right: 1px solid black;   
+}
+
+th,td {
+    padding: 10px;
+    border: 1px black solid;
+}
+
+th{
+    background-color:lightgrey;
+    
+}
+
+.direccion{
+    padding-right: 10px;
+}
