@@ -1,16 +1,19 @@
 .gym{
     font-family: Arial, Helvetica, sans-serif;
     text-align: left;
+    background-color: aquamarine;
 }
 
 .gatitos {
     text-align: center;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: indianred;
 }
 
 nav{
     padding: 10px 10px 10px 10px;
 }
+
 
 img {
     width: 25%;
@@ -23,11 +26,14 @@ audio{
 }
 
 .invoice{
+    background-color: white;
     border-collapse: collapse;
     border-top: 1px solid black;
     border-bottom: 1px solid black;
     border-left: 1px solid black;
-    border-right: 1px solid black;   
+    border-right: 1px solid black;
+    margin: 0 auto;
+    
 }
 
 th,td {
